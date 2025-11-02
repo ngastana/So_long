@@ -62,14 +62,14 @@ D / →	Move right
 ESC	Exit game
 Each valid move increases your move counter, displayed in the terminal or on-screen.
 ## 🧰 Example Output
-Moves: 1
-Moves: 2
-Moves: 3
-And visually, your game window might look like:
-🧱🧱🧱🧱🧱🧱
-🧱🧍⬜💰⬜🧱
-🧱⬜⬜⬜🚪🧱
-🧱🧱🧱🧱🧱🧱
+    Moves: 1
+    Moves: 2
+    Moves: 3
+    And visually, your game window might look like:
+    🧱🧱🧱🧱🧱🧱
+    🧱🧍⬜💰⬜🧱
+    🧱⬜⬜⬜🚪🧱
+    🧱🧱🧱🧱🧱🧱
 ## ⚙️ Allowed Functions
 You’ll mostly rely on:
 open, close, read, write, malloc, free, exit
