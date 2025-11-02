@@ -54,13 +54,13 @@ This will create the executable so_long.
 ./so_long maps/example.ber
 ```
 ## 🎮 Controls
-Key	Action
-W / ↑	Move up
-A / ←	Move left
-S / ↓	Move down
-D / →	Move right
-ESC	Exit game
-Each valid move increases your move counter, displayed in the terminal or on-screen.
+    Key	Action
+        W / ↑	Move up
+        A / ←	Move left
+        S / ↓	Move down
+        D / →	Move right
+        ESC	Exit game
+    Each valid move increases your move counter, displayed in the terminal or on-screen.
 ## 🧰 Example Output
     Moves: 1
     Moves: 2
