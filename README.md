@@ -77,7 +77,7 @@ mlx_init, mlx_new_window, mlx_put_image_to_window,
 mlx_xpm_file_to_image, mlx_destroy_window, mlx_loop, mlx_key_hook
 …and, of course, your libft functions to handle strings, map parsing, etc.
 ## 💥 Error Handling
-  ❌ Invalid map → print "Error\nInvalid map"
-  🚫 Missing elements (player, exit, collectibles) → print an error and exit.
-  📉 Non-rectangular or open map → print an error and exit.
-  🧹 Free all allocated memory before exiting (no leaks!).
+      ❌ Invalid map → print "Error\nInvalid map"
+      🚫 Missing elements (player, exit, collectibles) → print an error and exit.
+      📉 Non-rectangular or open map → print an error and exit.
+      🧹 Free all allocated memory before exiting (no leaks!).
