@@ -1,6 +1,3 @@
-# so_long
-so_long Ivan/iker
-
 # 🧩 so_long
 
 In this project I simple 2D game using the **MiniLibX** graphical library.  
